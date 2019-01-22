@@ -1,1 +1,1 @@
-# Hello World , Git! From Feature/A
+# Hello World , Git!
